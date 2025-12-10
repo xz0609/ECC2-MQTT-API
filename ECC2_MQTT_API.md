@@ -306,7 +306,7 @@ Payload:
 }
 ```
 
-## CMD error_code
+## Return error_code
 
 > Return code after method execution 
 
@@ -352,7 +352,7 @@ Payload:
 }
 ```
 
-## CMD exception_status
+## Return exception_status
 
 **Response -> "result" -> "machine_status" -> "exception_status"**
 ```
@@ -406,7 +406,7 @@ Payload:
 }
 ```
 
-## CMD status
+## Return status
 
 **Response -> "result" -> "machine_status" -> "status"**
 ```
@@ -430,7 +430,7 @@ Payload:
 }
 ```
 
-## CMD sub_status
+## Return sub_status
 
 **Response -> "result" -> "machine_status" -> "sub_status"**
 ```

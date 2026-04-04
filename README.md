@@ -20,7 +20,7 @@ SSH password: `MTY40DE2`
 # Bed Mesh Visualizer
 Download the [Bed_Mesh_Visualizer.html](./Bed_Mesh_Visualizer.html) HTML file and open it with a browser.
 
-After SSH remote login, download the `autosave.cfg` file from the /opt/usr/cfg directory, 
+After SSH remote login, download the `autosave.cfg` file from the `/opt/usr/cfg` directory, 
 and then drag the autosave.cfg file into the browser that has the opened HTML page. 
 You can then view the flatness of the net bed.
 

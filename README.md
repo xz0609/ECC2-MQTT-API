@@ -4,7 +4,7 @@ Elegoo Centauri Carbon 2(ECC2) 3D Printer MQTT API
 
 [ECC2_MQTT_API 文档](./ECC2_MQTT_API.md)
 
-For the latest MQTT API, it is recommended to refer to the [CC2_PROTOCOL.md]](https://github.com/danielcherubini/elegoo-homeassistant/blob/main/docs/CC2_PROTOCOL.md).
+For the latest MQTT API, it is recommended to refer to the [CC2_PROTOCOL.md](https://github.com/danielcherubini/elegoo-homeassistant/blob/main/docs/CC2_PROTOCOL.md).
 
 # SSH Remote Login
 

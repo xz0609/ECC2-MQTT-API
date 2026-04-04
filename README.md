@@ -1,8 +1,6 @@
 # CC2-MQTT-API
 
-Elegoo Centauri Carbon 2(ECC2) 3D Printer MQTT API
-
-[ECC2_MQTT_API 文档](./ECC2_MQTT_API.md)
+Elegoo Centauri Carbon 2(ECC2) 3D Printer [ECC2_MQTT_API](./ECC2_MQTT_API.md)
 
 For the latest MQTT API, it is recommended to refer to the [CC2_PROTOCOL.md](https://github.com/danielcherubini/elegoo-homeassistant/blob/main/docs/CC2_PROTOCOL.md).
 
@@ -12,13 +10,13 @@ Model: Elegoo Centauri Carbon 2
 
 Current firmware version: V01.03.01.89
 
-SSH address: Your printer's IP address, for example, `192.168.31.101`
+SSH_Address: Your printer's IP address, for example, `192.168.31.101`  
 
-SSH port: `22`
+SSH_Port: `22`
 
-SSH account: `root`
+SSH_Username(Account): `root`
 
-SSH password: `MTY40DE2`
+SSH_Password: `MTY40DE2`
 
 # Bed Mesh Visualizer
 Download the [Bed_Mesh_Visualizer.html](./Bed_Mesh_Visualizer.html) HTML file and open it with a browser.
@@ -28,3 +26,7 @@ and then drag the autosave.cfg file into the browser that has the opened HTML pa
 You can then view the flatness of the net bed.
 
 PS: The SSH password and Bed_Mesh_Visualizer.html is sourced from `Raelcun` on Discord `OpenCentauri`.
+
+# Log zip decompression password
+
+The zip archive of logs exported from the machine settings, Log zip decompression password: `16881688`.

@@ -16,7 +16,7 @@ SSH_Port: `22`
 
 SSH_Username(Account): `root`
 
-SSH_Password: `MTY40DE2`
+SSH_Password: `MTY4ODE2`
 
 # Bed Mesh Visualizer
 Download the [Bed_Mesh_Visualizer.html](./Bed_Mesh_Visualizer.html) HTML file and open it with a browser.

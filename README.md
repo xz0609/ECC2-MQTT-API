@@ -35,19 +35,21 @@ SSH_Password: `MTY4ODE2`
 
 The OTA upgrade package comes from the opencentauri community [firmware-update-archive](http://docs.opencentauri.cc/software/updates-cc2/#firmware-update-archive)
 
-stock firmware version: [02.00.02.00](https://github.com/suchmememanyskill/cc2-firmwares/raw/refs/heads/main/cc2-02.00.02.00-a3a76f4eb7036027e0927d7f9184a092-release-abroad.zip.sig)
 
-MD5: A3A76F4EB7036027E0927D7F9184A092
+- stock firmware version: [02.00.02.00](https://github.com/suchmememanyskill/cc2-firmwares/raw/refs/heads/main/cc2-02.00.02.00-a3a76f4eb7036027e0927d7f9184a092-release-abroad.zip.sig)
 
+MD5: `A3A76F4EB7036027E0927D7F9184A092`
 
 v02.00.02.00 (Released 28/05/2026), This release removes the SSH process entirely.
 
 This release prevents downgrades to any version before this release. If you'd like to downgrade anyway, use the [repacked version of v01.03.02.51](https://github.com/suchmememanyskill/cc2-firmwares/raw/refs/heads/main/cc2_eeb001_02.00.00.00_from51.zip.sig).
 
 
-Firmware with SSH added: [CC2-02.00.02.01-release-abroad-ssh.zip.sig](https://github.com/xz0609/ECC2-MQTT-API/releases/download/02.00.02.01/CC2-02.00.02.01-release-abroad-ssh.zip.sig)
+- Firmware with SSH added: [releases](https://github.com/xz0609/ECC2-MQTT-API/releases)
 
-MD5: C6546ADAC6C3DCB4F62A499F8873E5A4
+MD5: `C6546ADAC6C3DCB4F62A499F8873E5A4`
 
+Based on the stock firmware v02.00.02.00 (Released 28/05/2026), add the ssh and sftp files back to the firmware.
+To better distinguish files in the offline upgrade interface, the displayed version number has been specifically changed to 02.00.02.01
 
-Use at your own risk.
+PS: Use at your own risk.
